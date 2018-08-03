@@ -1,4 +1,4 @@
-# GPSD_output_lat_and_long_to_file
+# GPSD_output_lat_and_lon_to_file
 Simple Python 2.7 script to output lat and long to file, via GPSD
 
 Example useage:
